@@ -1,0 +1,1 @@
+cd C:\Program Files\FlightGear v3.0\bin\win64\fgfs 
