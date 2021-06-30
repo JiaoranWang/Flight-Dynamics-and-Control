@@ -1,0 +1,91 @@
+# Written by ICEM CFD 15.0, user Jiaoran Wang, Sat Mar 14 19:09:55 Pacific Daylight Time 2020
+
+begin family FIN
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 13675600 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family FIN
+
+begin family ELE
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 3399830 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family ELE
+
+begin family WING
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 8336370 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family WING
+
+begin family BODY
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16214100 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family BODY
+
+begin family GEOM
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family GEOM
+
+begin family INLET
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family INLET
+
+begin family OUTLET
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family OUTLET
+
+begin family FLUID
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 12109100 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family FLUID
+
+begin family WALL
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family WALL
+
+begin family WALL1
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family WALL1

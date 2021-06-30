@@ -1,0 +1,46 @@
+
+"C:/Program Files/ANSYS Inc/v150/icemcfd/win64_amd/icemcfd/output-interfaces/fluent6.exe" -dom "C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.uns" -bin -b "C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.fbc" "C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.msh"
+
+
+ Running FLUENT V6 Interface Vers. 15.0.5
+
+ Creating a Fluent 3D mesh.
+ Computing connectivity for 182651 cells.
+ Creating cell sections for 182651 cells.
+ Checking mesh:
+          interior faces : 353115
+          interior walls : 0
+          boundary faces : 24374
+ Creating face section for 377489 faces.
+    353115 faces of part FLUID.
+    676 faces of part FIN.
+    1297 faces of part ELE.
+    3529 faces of part WING.
+    2996 faces of part BODY.
+    15876 faces of part GEOM.
+
+ FLUENT V6 input file written (file: C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.msh) 
+ ... done
+
+"C:/Program Files/ANSYS Inc/v150/icemcfd/win64_amd/icemcfd/output-interfaces/fluent6.exe" -dom "C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.uns" -bin -b "C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.fbc" "C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.msh"
+
+
+ Running FLUENT V6 Interface Vers. 15.0.5
+
+ Creating a Fluent 3D mesh.
+ Computing connectivity for 182651 cells.
+ Creating cell sections for 182651 cells.
+ Checking mesh:
+          interior faces : 353115
+          interior walls : 0
+          boundary faces : 24374
+ Creating face section for 377489 faces.
+    353115 faces of part FLUID.
+    676 faces of part FIN.
+    1297 faces of part ELE.
+    3529 faces of part WING.
+    2996 faces of part BODY.
+    15876 faces of part GEOM.
+
+ FLUENT V6 input file written (file: C:/Users/Jiaoran Wang/Desktop/USC2020SPR/AME532A/PROJECT/ANSYS/1_8_files/dp0/ICM/ICEMCFD/ICM.msh) 
+ ... done

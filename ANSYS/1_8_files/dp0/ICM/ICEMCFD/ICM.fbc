@@ -1,0 +1,23 @@
+# family_boco file written by ICEM CFD by Jiaoran Wang on Sat Mar 14 19:09:55 Pacific Daylight Time 2020
+## solver ANSYS Fluent
+"FIN"
+"FIN" "color" 13675600
+"ELE"
+"ELE" "color" 3399830
+"WING"
+"WING" "color" 8336370
+"BODY"
+"BODY" "color" 16214100
+"GEOM"
+"GEOM" "color" 16663900
+"INLET"
+"INLET" "color" 16663900
+"OUTLET"
+"OUTLET" "color" 16663900
+"FLUID"
+"FLUID" "color" 12109100
+"WALL"
+"WALL" "color" 16663900
+"WALL1"
+"WALL1" "color" 16663900
+
